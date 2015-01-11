@@ -16,9 +16,9 @@
 #include <stdio.h>
 #include <vector>
 
-#define TIMETEST
+//#define TIMETEST
 //#define VS
-//#define XBOARD
+#define XBOARD
 
 int main(){
 #ifdef TIMETEST
